@@ -1,0 +1,134 @@
+[2019-08-15 18:30:21,510] ERROR {org.ballerinalang.jvm.scheduling.Scheduler} - Strand died 
+java.lang.ClassCastException: java.lang.String cannot be cast to org.ballerinalang.jvm.values.XMLValue
+	at org.ballerinalang.langlib.xml.ForEach.forEach(ForEach.java:52)
+	at ballerina.lang_xml.xml.forEach(xml.bal:285)
+	at nadeeshaangunasinghe.module1.main.printAllPrices(main.bal:117)
+	at nadeeshaangunasinghe.module1.main.main(main.bal:30)
+	at nadeeshaangunasinghe.module1.___init.$lambda$main$(module1)
+	at org.ballerinalang.jvm.scheduling.SchedulerItem.execute(Scheduler.java:452)
+	at org.ballerinalang.jvm.scheduling.Scheduler.run(Scheduler.java:228)
+	at org.ballerinalang.jvm.scheduling.Scheduler.runSafely(Scheduler.java:198)
+	at java.lang.Thread.run(Thread.java:748)
+ 
+[2019-08-15 18:30:21,521] ERROR {org.ballerinalang.jvm.util.RuntimeUtils} - java.lang.String cannot be cast to org.ballerinalang.jvm.values.XMLValue 
+java.lang.ClassCastException: java.lang.String cannot be cast to org.ballerinalang.jvm.values.XMLValue
+	at org.ballerinalang.langlib.xml.ForEach.forEach(ForEach.java:52)
+	at ballerina.lang_xml.xml.forEach(xml.bal:285)
+	at nadeeshaangunasinghe.module1.main.printAllPrices(main.bal:117)
+	at nadeeshaangunasinghe.module1.main.main(main.bal:30)
+	at nadeeshaangunasinghe.module1.___init.$lambda$main$(module1)
+	at org.ballerinalang.jvm.scheduling.SchedulerItem.execute(Scheduler.java:452)
+	at org.ballerinalang.jvm.scheduling.Scheduler.run(Scheduler.java:228)
+	at org.ballerinalang.jvm.scheduling.Scheduler.runSafely(Scheduler.java:198)
+	at java.lang.Thread.run(Thread.java:748)
+ 
+[2019-08-15 18:35:00,844] ERROR {org.ballerinalang.jvm.scheduling.Scheduler} - Strand died 
+java.lang.ClassCastException: java.lang.String cannot be cast to org.ballerinalang.jvm.values.XMLValue
+	at org.ballerinalang.langlib.xml.ForEach.forEach(ForEach.java:52)
+	at ballerina.lang_xml.xml.forEach(xml.bal:285)
+	at nadeeshaangunasinghe.module1.main.printAllPrices(main.bal:117)
+	at nadeeshaangunasinghe.module1.main.main(main.bal:30)
+	at nadeeshaangunasinghe.module1.___init.$lambda$main$(module1)
+	at org.ballerinalang.jvm.scheduling.SchedulerItem.execute(Scheduler.java:452)
+	at org.ballerinalang.jvm.scheduling.Scheduler.run(Scheduler.java:228)
+	at org.ballerinalang.jvm.scheduling.Scheduler.runSafely(Scheduler.java:198)
+	at java.lang.Thread.run(Thread.java:748)
+ 
+[2019-08-15 18:35:00,855] ERROR {org.ballerinalang.jvm.util.RuntimeUtils} - java.lang.String cannot be cast to org.ballerinalang.jvm.values.XMLValue 
+java.lang.ClassCastException: java.lang.String cannot be cast to org.ballerinalang.jvm.values.XMLValue
+	at org.ballerinalang.langlib.xml.ForEach.forEach(ForEach.java:52)
+	at ballerina.lang_xml.xml.forEach(xml.bal:285)
+	at nadeeshaangunasinghe.module1.main.printAllPrices(main.bal:117)
+	at nadeeshaangunasinghe.module1.main.main(main.bal:30)
+	at nadeeshaangunasinghe.module1.___init.$lambda$main$(module1)
+	at org.ballerinalang.jvm.scheduling.SchedulerItem.execute(Scheduler.java:452)
+	at org.ballerinalang.jvm.scheduling.Scheduler.run(Scheduler.java:228)
+	at org.ballerinalang.jvm.scheduling.Scheduler.runSafely(Scheduler.java:198)
+	at java.lang.Thread.run(Thread.java:748)
+ 
+[2019-08-15 18:42:53,864] ERROR {org.ballerinalang.jvm.scheduling.Scheduler} - Strand died 
+java.lang.ClassCastException: java.lang.String cannot be cast to org.ballerinalang.jvm.values.XMLValue
+	at org.ballerinalang.langlib.xml.ForEach.forEach(ForEach.java:52)
+	at ballerina.lang_xml.xml.forEach(xml.bal:285)
+	at nadeeshaangunasinghe.module1.main.printAllPrices(main.bal:118)
+	at nadeeshaangunasinghe.module1.main.main(main.bal:30)
+	at nadeeshaangunasinghe.module1.___init.$lambda$main$(module1)
+	at org.ballerinalang.jvm.scheduling.SchedulerItem.execute(Scheduler.java:452)
+	at org.ballerinalang.jvm.scheduling.Scheduler.run(Scheduler.java:228)
+	at org.ballerinalang.jvm.scheduling.Scheduler.runSafely(Scheduler.java:198)
+	at java.lang.Thread.run(Thread.java:748)
+ 
+[2019-08-15 18:42:53,879] ERROR {org.ballerinalang.jvm.util.RuntimeUtils} - java.lang.String cannot be cast to org.ballerinalang.jvm.values.XMLValue 
+java.lang.ClassCastException: java.lang.String cannot be cast to org.ballerinalang.jvm.values.XMLValue
+	at org.ballerinalang.langlib.xml.ForEach.forEach(ForEach.java:52)
+	at ballerina.lang_xml.xml.forEach(xml.bal:285)
+	at nadeeshaangunasinghe.module1.main.printAllPrices(main.bal:118)
+	at nadeeshaangunasinghe.module1.main.main(main.bal:30)
+	at nadeeshaangunasinghe.module1.___init.$lambda$main$(module1)
+	at org.ballerinalang.jvm.scheduling.SchedulerItem.execute(Scheduler.java:452)
+	at org.ballerinalang.jvm.scheduling.Scheduler.run(Scheduler.java:228)
+	at org.ballerinalang.jvm.scheduling.Scheduler.runSafely(Scheduler.java:198)
+	at java.lang.Thread.run(Thread.java:748)
+ 
+[2019-08-15 18:46:56,434] ERROR {org.ballerinalang.jvm.scheduling.Scheduler} - Strand died 
+java.lang.ClassCastException: java.lang.String cannot be cast to org.ballerinalang.jvm.values.XMLValue
+	at org.ballerinalang.langlib.xml.ForEach.forEach(ForEach.java:52)
+	at ballerina.lang_xml.xml.forEach(xml.bal:285)
+	at nadeeshaangunasinghe.module1.main.printAllPrices(main.bal:118)
+	at nadeeshaangunasinghe.module1.main.main(main.bal:30)
+	at nadeeshaangunasinghe.module1.___init.$lambda$main$(module1)
+	at org.ballerinalang.jvm.scheduling.SchedulerItem.execute(Scheduler.java:452)
+	at org.ballerinalang.jvm.scheduling.Scheduler.run(Scheduler.java:228)
+	at org.ballerinalang.jvm.scheduling.Scheduler.runSafely(Scheduler.java:198)
+	at java.lang.Thread.run(Thread.java:748)
+ 
+[2019-08-15 18:46:56,448] ERROR {org.ballerinalang.jvm.util.RuntimeUtils} - java.lang.String cannot be cast to org.ballerinalang.jvm.values.XMLValue 
+java.lang.ClassCastException: java.lang.String cannot be cast to org.ballerinalang.jvm.values.XMLValue
+	at org.ballerinalang.langlib.xml.ForEach.forEach(ForEach.java:52)
+	at ballerina.lang_xml.xml.forEach(xml.bal:285)
+	at nadeeshaangunasinghe.module1.main.printAllPrices(main.bal:118)
+	at nadeeshaangunasinghe.module1.main.main(main.bal:30)
+	at nadeeshaangunasinghe.module1.___init.$lambda$main$(module1)
+	at org.ballerinalang.jvm.scheduling.SchedulerItem.execute(Scheduler.java:452)
+	at org.ballerinalang.jvm.scheduling.Scheduler.run(Scheduler.java:228)
+	at org.ballerinalang.jvm.scheduling.Scheduler.runSafely(Scheduler.java:198)
+	at java.lang.Thread.run(Thread.java:748)
+ 
+[2019-08-15 18:47:44,266] ERROR {org.ballerinalang.jvm.scheduling.Scheduler} - Strand died 
+java.lang.ClassCastException: java.lang.String cannot be cast to org.ballerinalang.jvm.values.XMLValue
+	at org.ballerinalang.langlib.xml.ForEach.forEach(ForEach.java:52)
+	at ballerina.lang_xml.xml.forEach(xml.bal:285)
+	at nadeeshaangunasinghe.module1.main.printAllPrices(main.bal:118)
+	at nadeeshaangunasinghe.module1.main.main(main.bal:30)
+	at nadeeshaangunasinghe.module1.___init.$lambda$main$(module1)
+	at org.ballerinalang.jvm.scheduling.SchedulerItem.execute(Scheduler.java:452)
+	at org.ballerinalang.jvm.scheduling.Scheduler.run(Scheduler.java:228)
+	at org.ballerinalang.jvm.scheduling.Scheduler.runSafely(Scheduler.java:198)
+	at java.lang.Thread.run(Thread.java:748)
+ 
+[2019-08-15 18:47:44,274] ERROR {org.ballerinalang.jvm.util.RuntimeUtils} - java.lang.String cannot be cast to org.ballerinalang.jvm.values.XMLValue 
+java.lang.ClassCastException: java.lang.String cannot be cast to org.ballerinalang.jvm.values.XMLValue
+	at org.ballerinalang.langlib.xml.ForEach.forEach(ForEach.java:52)
+	at ballerina.lang_xml.xml.forEach(xml.bal:285)
+	at nadeeshaangunasinghe.module1.main.printAllPrices(main.bal:118)
+	at nadeeshaangunasinghe.module1.main.main(main.bal:30)
+	at nadeeshaangunasinghe.module1.___init.$lambda$main$(module1)
+	at org.ballerinalang.jvm.scheduling.SchedulerItem.execute(Scheduler.java:452)
+	at org.ballerinalang.jvm.scheduling.Scheduler.run(Scheduler.java:228)
+	at org.ballerinalang.jvm.scheduling.Scheduler.runSafely(Scheduler.java:198)
+	at java.lang.Thread.run(Thread.java:748)
+ 
+[2019-08-15 18:58:58,490] ERROR {org.ballerinalang.jvm.scheduling.Scheduler} - Strand died 
+error: {ballerina}XMLOperationError message=Failed to slice xml: index out of range: [2,3]
+	at ballerina.lang_xml:slice(xml.bal:123)
+	   nadeeshaangunasinghe.module1:$lambda$0(main.bal:120)
+	   ballerina.lang_xml:forEach(xml.bal:285)
+	   nadeeshaangunasinghe.module1:printAllPrices(main.bal:118)
+	   nadeeshaangunasinghe.module1:main(main.bal:30) 
+[2019-08-15 18:59:40,251] ERROR {org.ballerinalang.jvm.scheduling.Scheduler} - Strand died 
+error: {ballerina}XMLOperationError message=Failed to slice xml: index out of range: [2,2]
+	at ballerina.lang_xml:slice(xml.bal:123)
+	   nadeeshaangunasinghe.module1:$lambda$0(main.bal:120)
+	   ballerina.lang_xml:forEach(xml.bal:285)
+	   nadeeshaangunasinghe.module1:printAllPrices(main.bal:118)
+	   nadeeshaangunasinghe.module1:main(main.bal:30) 
