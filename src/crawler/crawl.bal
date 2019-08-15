@@ -81,6 +81,7 @@ function removeImgTags(string extractedContent) returns xml | error {
 }
 
 function printAllPrices(xml prizesTable) {
+    io:println("======== Tomorrow Grand Prizes =========");
     xml rows =prizesTable.*.elements();
     rows.forEach(function ((xml | string) row) {
         if (row is xml) {
